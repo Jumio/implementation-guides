@@ -670,10 +670,11 @@ Authorization: Basic
 "type": "SSC",
 "country": "USA",
 "extractedData": {
-"firstName": "FIRSTNAME",
-"lastName": "LASTNAME",
-"ssn": "12341234",
-"signatureAvailable": true
+  "firstName": "FIRSTNAME",
+  "lastName": "LASTNAME",
+  "ssn": "12341234",
+  "signatureAvailable": true
+  }
 }
 ```
 
