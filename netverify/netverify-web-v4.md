@@ -507,7 +507,7 @@ All data is encoded with [UTF-8](https://tools.ietf.org/html/rfc3629).
 
 |Property|Type|Description|
 |:-------|:---|:----------|
-|**code**|integer|[see **errorCode** values](#after-the-user-journey)|
+|**codeExternal**|integer|[see **errorCode** values](#after-the-user-journey)|
 <br>
 
 ### Example iFrame logging code
