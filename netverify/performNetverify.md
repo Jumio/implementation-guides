@@ -96,6 +96,7 @@ The following fields are required in the header section of your request:<br>
 |personalNumber|String|14|Personal number of the document|
 
 <br>
+
 ### Supported documents for address extraction
 
 |Country    |ID card    |Driving license    |Passport    |Callback format |
