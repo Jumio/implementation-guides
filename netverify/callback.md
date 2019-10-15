@@ -35,10 +35,6 @@ Whitelist these IP addresses for callbacks, and use them to verify that the call
 52.52.51.178<br>
 52.53.95.123<br>
 54.67.101.173<br>
-104.130.61.196<br>
-146.20.77.156<br>
-184.106.91.66<br>
-184.106.91.67<br>
 
 Use the hostname `callback.jumio.com` to look up the most current IP addresses.<p>
 
