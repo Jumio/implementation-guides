@@ -2,7 +2,7 @@
 
 # Callback
 
-The callback is the authoritative answer from Jumio. Specify a callback URL (for constraints see [Configuring Settings in the Customer Portal](/netverify/portal-settings.md#callback-error-and-success-urls)) to automatically recieve the result for each transaction.
+The callback is the authoritative answer from Jumio. Specify a callback URL (for constraints see [Configuring Settings in the Customer Portal](/netverify/portal-settings.md#callback-error-and-success-urls)) to automatically receive the result for each transaction.
 
 ### Revision history
 
