@@ -87,7 +87,7 @@ Select this checkbox to bypass the introductory screen in the Netverify client.
 
 ### Domain Name Prefix
 
-You can optionally define a domain name prefix (`https://example.netverfy.com`) for the URL of your Netverify page.
+You can optionally define a domain name prefix (`https://example.netverify.com`) for the URL of your Netverify page.
 
 
 - Allowed characters are: letters `a-z`, numbers `0-9`, `-`
