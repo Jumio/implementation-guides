@@ -3,18 +3,16 @@
 # Implementation Guides
 
 The implementation guides below will assist you with integrating Jumio products.<p>
-The Jumio Knowledge Base contains a wealth of information regarding our services including FAQs, best practices, demo videos, product descriptions and additional information which will be helpful to get you started with Jumio.<p>
-
-[Jumio Knowledge Base](https://support.jumio.com)
+Additionally, the [Jumio Knowledge Base](https://support.jumio.com) contains a wealth of information including FAQs, best practices, demo videos, product descriptions, and additional information that will be helpful to get you started with Jumio.<p>
 
 ## Contact
 
-If you have any questions regarding our implementation guides please contact Jumio Support at support@jumio.com.
+If you have any questions regarding our implementation guides, please contact Jumio Support at support@jumio.com.
 
 ---
 ## Netverify
 
-Jumio's Netverify ID Verification, lets customers easily and securely capture and submit their government-issued ID documents, performs real-time ID verification using machine learning and helps deter fraud and meet regulatory requirements.
+Jumio's Netverify ID Verification lets customers easily and securely capture and submit their government-issued ID documents. It performs real-time ID verification using machine learning, helping you deter fraud and meet regulatory requirements.
 
 - [Netverify Web v4](/netverify/netverify-web-v4.md)
 - [performNetverify](/netverify/performNetverify.md)
@@ -36,8 +34,8 @@ Transform the way you extract and verify data from customer documents with Jumio
 
 ## Fastfill
 
-With Fastfill your customers no longer need to laboriously key enter their personal data.<br>
-Fastfill turns your customers mobile device into a ID data extraction and population tool.
+With Fastfill, your customers no longer need to laboriously key enter their personal data.<br>
+Fastfill turns a customer's mobile device into an ID data extraction and population tool.
 
 - [Fastfill API](/netverify/fastfill-api.md)
 - [Fastfill Mobile iOS](https://github.com/Jumio/mobile-sdk-ios)
@@ -51,7 +49,9 @@ BAM Checkout enables your mobile customers with the easiest and most friction-fr
 - [BAM Checkout Mobile Android](https://github.com/Jumio/mobile-sdk-android)
 - [Credit Card Retrieval API](/bam-checkout/credit-card-retrieval-api.md)
 
-## Jumio Mobile SDK Plugin
+## Jumio Mobile SDK Plugins
+
+The Jumio Mobile SDK provides plugins for the following development platforms:
 
 - [Plugin for Apache Cordova](https://github.com/Jumio/mobile-cordova)
 - [Plugin for React Native](https://github.com/Jumio/mobile-react)
