@@ -55,6 +55,7 @@ The Jumio Mobile SDK provides plugins for the following development platforms:
 
 - [Plugin for Apache Cordova](https://github.com/Jumio/mobile-cordova)
 - [Plugin for React Native](https://github.com/Jumio/mobile-react)
-- [Plugin for Xamarin](https://github.com/Jumio/mobile-xamarin)
+- [Plugin for Flutter](https://github.com/Jumio/mobile-flutter)
+- [Plugin for Xamarin (deprecated)](https://github.com/Jumio/mobile-xamarin)
 ---
 &copy; Jumio Corporation, 395 Page Mill Road, Suite 150 Palo Alto, CA 94306
