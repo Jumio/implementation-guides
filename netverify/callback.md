@@ -254,7 +254,6 @@ We encourage to use a standard library to convert the timestamp received from Ju
 |**similarity** <sup>1</sup>   |  |Possible values:<br/> •	MATCH<br />•	NO\_MATCH<br />•	NOT\_POSSIBLE (not executed or bad quality of face on document)|
 |**validity** <sup>2</sup>   |  |Possible values:<br/> •	TRUE<br />•	FALSE |
 |reason   |  |Provided if validity = FALSE<br/>Possible values:<br />• SELFIE\_CROPPED\_FROM\_ID<br />•	ENTIRE\_ID\_USED\_AS\_SELFIE<br />•	MULTIPLE\_PEOPLE<br />•	SELFIE\_IS\_SCREEN\_PAPER\_VIDEO<br />•	SELFIE\_MANIPULATED<br />• AGE\_DIFFERENCE\_TOO\_BIG<br />•	NO\_FACE\_PRESENT<br />•	FACE\_NOT\_FULLY\_VISIBLE<br />•	BAD\_QUALITY<br />•	BLACK\_AND\_WHITE<br />•	LIVENESS\_FAILED <sup>3</sup>|
-|similarityScore   |  |Only visible if setting is turned on within your account. For questions about this feature, please contact your Support.|
 
 <!-- |similarityDecision   |  |Only visible if setting is turned on within your account. For questions about this feature, please contact your Support. <br/><br/>Possible values:<br/> •	MANUAL<br />•	AUTOMATED| -->
 
