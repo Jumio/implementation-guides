@@ -166,7 +166,7 @@ All images must be formatted as [JPG](https://jpeg.org/jpeg/) or [PNG](https://e
 ## Accepted IDs
 You can configure accepted IDs **Per region** or **Per country**.
 
-To configure **Per region**, select **All**, **None**, or **Jumio supported** from the dropdown. Your region selections can be copied to the **Per country** configuration page for further custimization. The default includes all countries and ID types supported by Jumio at the time when your account was created.
+To configure **Per region**, select **All**, **None**, or **Jumio supported** from the dropdown. Your region selections can be copied to the **Per country** configuration page for further customization. The default includes all countries and ID types supported by Jumio at the time when your account was created.
 
 Select the checkbox to automatically accept newly supported IDs by Jumio.
 
