@@ -478,7 +478,7 @@ The **redirectUrl** returned in the response to your **initate** API call, which
 ## Using ID Verification in an iFrame
 If you want to embed ID Verification on a web page, place the iFrame tag in your HTML code where you want the client to appear. Use the `redirectUrl` as value of the `src` attribute.
 
-|⚠️ The `allow="camera"` attribute must be included to enable the camera for image capture in [supported browsers](#supported-browsers).
+|⚠️ The `allow="camera"` attribute must be included to enable the camera for image capture in [supported browsers](#supported-environments).
 |:----------|
 
 |⚠️ In case you are nesting the iFrame in another iFrame the `allow="camera"` attribute must be added to every iFrame.
@@ -509,7 +509,7 @@ Note: When specifying the width and height of your iFrame you may prefer to use 
 
 For a better user experience when creating a three-dimensional map of your user's face, you must allow full screen mode. This will address the positioning and distance between the capture interface and the camera.
 
-|⚠️ The `allow="camera;fullscreen;accelerometer;gyroscope;magnetometer" allowfullscreen` attributes must be included to enable the camera for image capture in [supported browsers](#supported-browsers) in full screen mode.
+|⚠️ The `allow="camera;fullscreen;accelerometer;gyroscope;magnetometer" allowfullscreen` attributes must be included to enable the camera for image capture in [supported browsers](#supported-environments) in full screen mode.
 |:----------|
 
 ### Example HTML
